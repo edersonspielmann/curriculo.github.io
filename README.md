@@ -1,3 +1,1 @@
-Curriculo 🧷
-
-Currículo responsivo feito em HTML e CSS.
+Currículo feito em HTML e CSS. Trabalho Univille.
